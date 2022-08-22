@@ -1,0 +1,15 @@
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\bin\Debug\net6.0\Uge2_Opgaver.exe
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\bin\Debug\net6.0\Uge2_Opgaver.deps.json
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\bin\Debug\net6.0\Uge2_Opgaver.runtimeconfig.json
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\bin\Debug\net6.0\Uge2_Opgaver.dll
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\bin\Debug\net6.0\Uge2_Opgaver.pdb
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.csproj.AssemblyReference.cache
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.AssemblyInfoInputs.cache
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.AssemblyInfo.cs
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.dll
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\refint\Uge2_Opgaver.dll
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.pdb
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\Uge2_Opgaver.genruntimeconfig.cache
+C:\Users\luka1651\Documents\C#\Uge2_Opgaver\obj\Debug\net6.0\ref\Uge2_Opgaver.dll
